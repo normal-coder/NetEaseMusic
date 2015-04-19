@@ -1,0 +1,24 @@
+{
+	"main": "index.html",
+	"name": "网易云音乐",
+	"description": "网易云音乐APP For Linux",
+	"version": "0.1.0",
+	"keywords": [ "网易云音乐" ],
+	"single-instance":true,
+	"window": {
+	"title": "网易云音乐",
+	"icon": "icon.png",
+	"toolbar": false,
+	"frame": true,
+	"width": 1085,
+	"height": 550,
+	"position": "center",
+	"min_width": 1085,
+	"min_height": 550,
+	"max_width": 2000,
+	"max_height": 1000
+	},
+	"webkit": {
+	"plugin": true
+	}
+}
