@@ -31,11 +31,17 @@ chmod +x generateDesktopIcon.sh
 > 备注：安装需要管理员权限，过程中可能会提示输入密码，输入后即可继续安装
 
 ###部分效果截图
+歌曲详情： 
 ![歌曲详情](README-images/detail.png "歌曲详情")
+好友动态： 
 ![好友动态](README-images/dynamic.png "好友动态")
+收藏列表： 
 ![收藏列表](README-images/list.png "收藏列表")
+播放列表： 
 ![播放列表](README-images/playlist.png "播放列表")
+音乐电台： 
 ![音乐电台](README-images/radio.png "音乐电台")
+
 
 ---
 ### 反馈与建议
