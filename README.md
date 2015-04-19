@@ -8,11 +8,15 @@
 
 ---
 ###关于这个项目
-> １、使用Ubuntu已经有很长一段时间，一直对Ubuntu下的音乐软件不感冒。
-> ２、每次听歌都需要打开浏览器，不小心关闭浏览器或者标签就把音乐关掉了。
-> ３、在GitOSC上搜到了[zjuysw](http://git.oschina.net/zjuysw/)的[NetEaseMusic客户端](http://git.oschina.net/zjuysw/NetEaseMusic)，于是萌生了自己做一个客户端的想法。
-> ４、用nwjs把web版本的网易云音乐做了简单包装，效果相当的理想。
-> ５、欢迎大家一起来把这个客户端完善丰富～
+> １、使用Ubuntu已经有很长一段时间，一直对Ubuntu下的音乐软件不感冒。 
+> 
+> ２、每次听歌都需要打开浏览器，不小心关闭浏览器或者标签就把音乐关掉了。 
+> 
+> ３、在GitOSC上搜到了[zjuysw](http://git.oschina.net/zjuysw/)的[NetEaseMusic客户端](http://git.oschina.net/zjuysw/NetEaseMusic)，于是萌生了自己做一个客户端的想法。 
+> 
+> ４、用nwjs把web版本的网易云音乐做了简单包装，效果相当的理想。 
+> 
+> ５、欢迎大家一起来把这个客户端完善丰富～ 
 
 ---
 ###安装说明
