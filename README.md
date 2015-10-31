@@ -50,5 +50,4 @@ chmod +x generateDesktopIcon.sh
 
 ---
 ### 反馈与建议
-- 微博：[@张盛翔](http://weibo.com/zhangshx)
-- 邮箱：<greedisland1017@163.com>
+- 微博：[@诺墨不是墨](http://weibo.com/normal1017)
